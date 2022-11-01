@@ -45,7 +45,9 @@ each program has very different machine code.
 
 The work done here is actually quite minimal. Only a small percentage of the symbols found in other
 versions of the game have been mapped to memory addresses. Everything that is essential to CLEO iOS
-has been mapped, plus a few other obvious matches.
+has been mapped, plus a few other obvious matches. Several functions have been reversed in detail,
+with the decompilation output now reading very well. Many structures have been discovered and
+matched to names. 
 
 ## Contributing
 
